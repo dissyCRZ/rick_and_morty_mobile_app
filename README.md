@@ -17,9 +17,6 @@ A Flutter project for Android and IOS about the characters of the series "Rick&M
   </tr>
  </table>
 
-<img src="https://raw.githubusercontent.com/dissyCRZ/rick_and_morty_mobile_app/main/screenshots/Screenshot_HomePage.png" width="300" /> 
-<img src="https://raw.githubusercontent.com/dissyCRZ/rick_and_morty_mobile_app/main/screenshots/Screenshot_DetalPage.png" width="300" />
-
 #### Sources:
 
 - [Rick&Morty API docs](https://rickandmortyapi.com/documentation/#rest)
