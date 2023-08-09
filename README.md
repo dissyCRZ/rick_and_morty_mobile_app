@@ -1,16 +1,27 @@
-# rick_and_morty
+# Rick and Morty app
 
-A new Flutter project.
+A Flutter project for Android and IOS about the characters of the series "Rick&Morty"
 
-## Getting Started
+## Info
 
-This project is a starting point for a Flutter application.
+#### Screens:
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://raw.githubusercontent.com/dissyCRZ/rick_and_morty_mobile_app/main/screenshots/Screenshot_HomePage.png" width="300" />
+<img src="https://raw.githubusercontent.com/dissyCRZ/rick_and_morty_mobile_app/main/screenshots/Screenshot_DetalPage.png" width="300" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Sources:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Rick&Morty API docs](https://rickandmortyapi.com/documentation/#rest)
+- [Guides](https://www.youtube.com/watch?v=fbG4lA4Pq4w&ab_channel=KonstantinKokorin)
+
+#### Packages:
+
+- [equatable](https://pub.dev/packages/equatable)
+- [dartz](https://pub.dev/packages/dartz)
+- [http](https://pub.dev/packages/http)
+- [shared preferences](https://pub.dev/packages/shared_preferences)
+- [internet connection checker](https://pub.dev/packages/internet_connection_checker)
+- [flutter bloc](https://pub.dev/packages/flutter_bloc)
+- [get_it](https://pub.dev/packages/get_it)
+- [cached_network_image](https://pub.dev/packages/cached_network_image)
+
